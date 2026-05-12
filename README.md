@@ -1,24 +1,36 @@
 # Impact of Algorithmic Recommendation Systems on Academic Performance, Stress, and Decision-Making
 
-This research project investigates the impact of algorithmic recommendation systems on students’ academic performance, stress levels, distraction patterns, algorithmic literacy, and decision-making quality.
+## Research Status
+Publication in progress. Full manuscript will be added after publication.
 
 ## Research Overview
-The study explores how recommendation-driven digital platforms influence student productivity, focus, mental well-being, and decision behaviour through survey-based research and analytical interpretation.
+This research project investigates the impact of algorithmic recommendation systems on students’ academic performance, stress levels, distraction patterns, algorithmic literacy, and decision-making quality.
+
+The study explores how personalized recommendation-driven digital platforms influence student productivity, focus, digital behaviour, and mental well-being through quantitative research and analytical interpretation.
 
 ## Research Objectives
-- Analyze the effect of algorithmic recommendation systems on academic performance
-- Study the relationship between recommendation exposure and student stress levels
+- Analyze the effect of recommendation systems on academic performance
+- Study the relationship between algorithmic recommendations and student stress levels
 - Examine distraction patterns caused by personalized content recommendations
-- Evaluate the impact on decision-making quality and digital behaviour
-- Assess algorithmic literacy and awareness among students
+- Evaluate the influence on decision-making quality and behavioural choices
+- Assess algorithmic literacy and digital awareness among students
 - Propose transparent and ethical recommendation frameworks for student well-being
 
 ## Research Methodology
 - Survey-based quantitative data collection
 - Student behavioural data analysis
-- Statistical interpretation and graphical analysis
-- Correlation-based research observations
+- Statistical interpretation
+- Correlation-based analytical observations
 - Comparative analysis of productivity and stress indicators
+- Data visualization and research interpretation
+
+## Key Research Areas
+- Academic Performance Analysis
+- Stress Pattern Analysis
+- Distraction Behaviour Analysis
+- Decision-Making Quality Assessment
+- Algorithmic Literacy Evaluation
+- Ethical Recommendation System Framework
 
 ## Tools & Technologies
 - Python
@@ -28,10 +40,10 @@ The study explores how recommendation-driven digital platforms influence student
 - Research Methodology
 
 ## Key Findings
-- Recommendation systems significantly influence student focus and productivity
-- High exposure to personalized recommendations contributes to distraction and stress
-- Decision-making behaviour is affected by algorithm-driven content exposure
-- Digital awareness and algorithmic literacy play an important role in responsible usage
+- Algorithmic recommendation systems significantly influence student focus and productivity
+- Higher exposure to personalized recommendations contributes to increased distraction and stress
+- Decision-making quality is affected by repeated algorithm-driven content exposure
+- Algorithmic awareness plays an important role in responsible digital behaviour
 
 ## Outcome
-The research proposes a transparent, ethical, and student-centric recommendation framework aimed at improving digital well-being and academic productivity.
+This research proposes a transparent, ethical, and student-centric recommendation framework aimed at improving academic productivity, digital well-being, and responsible recommendation system usage.
